@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="structvt_obj" kind="struct" language="C++" prot="public">
+    <compoundname>vtObj</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="structvt_obj_1a08e358f6a55eed8b2a68f8c995e820b7" prot="public" static="no" mutable="no">
+        <type>struct <ref refid="structvt_char_map" kindref="compound">vtCharMap</ref> *</type>
+        <definition>struct vtCharMap* vtObj::sprites</definition>
+        <argsstring></argsstring>
+        <name>sprites</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/visualt/visualt.h" line="102" column="16" bodyfile="include/visualt/visualt.h" bodystart="102" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structvt_obj_1a0f786f7513c3517b2743ce72a5a98126" prot="public" static="no" mutable="no">
+        <type>struct <ref refid="structvt_char_map" kindref="compound">vtCharMap</ref> *</type>
+        <definition>struct vtCharMap * vtObj::currentSprite</definition>
+        <argsstring></argsstring>
+        <name>currentSprite</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/visualt/visualt.h" line="102" column="24" bodyfile="include/visualt/visualt.h" bodystart="102" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structvt_obj_1ad6ffddb969d35360eadc6978fa990b99" prot="public" static="no" mutable="no">
+        <type><ref refid="visualt_8h_1a602a1973d04b95bac5e9fa013bc2fac9" kindref="member">VTChar</ref></type>
+        <definition>VTChar vtObj::penChar</definition>
+        <argsstring></argsstring>
+        <name>penChar</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/visualt/visualt.h" line="103" column="8" bodyfile="include/visualt/visualt.h" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structvt_obj_1a510f0642e94537111eb1b9f350eb1545" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int vtObj::x</definition>
+        <argsstring></argsstring>
+        <name>x</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/visualt/visualt.h" line="104" column="5" bodyfile="include/visualt/visualt.h" bodystart="104" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structvt_obj_1a8173d46ad6d668b0bda59b6c66bbf125" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int vtObj::y</definition>
+        <argsstring></argsstring>
+        <name>y</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/visualt/visualt.h" line="104" column="7" bodyfile="include/visualt/visualt.h" bodystart="104" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structvt_obj_1a1ecd354dcdb895e54e2aef96be3e0aab" prot="public" static="no" mutable="no">
+        <type>unsigned int</type>
+        <definition>unsigned int vtObj::length</definition>
+        <argsstring></argsstring>
+        <name>length</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/visualt/visualt.h" line="105" column="14" bodyfile="include/visualt/visualt.h" bodystart="105" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structvt_obj_1a92860474f2bf8f5c7f478bb015c504f4" prot="public" static="no" mutable="no">
+        <type>unsigned short</type>
+        <definition>unsigned short vtObj::penSize</definition>
+        <argsstring></argsstring>
+        <name>penSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/visualt/visualt.h" line="106" column="16" bodyfile="include/visualt/visualt.h" bodystart="106" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structvt_obj_1a691e4e13ccae16248cc6cb962d80918d" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool vtObj::visible</definition>
+        <argsstring></argsstring>
+        <name>visible</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/visualt/visualt.h" line="107" column="6" bodyfile="include/visualt/visualt.h" bodystart="107" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="2">
+        <label>vtCharMap</label>
+        <link refid="structvt_char_map"/>
+      </node>
+      <node id="1">
+        <label>vtObj</label>
+        <link refid="structvt_obj"/>
+        <childnode refid="2" relation="usage">
+          <edgelabel>currentSprite</edgelabel>
+          <edgelabel>sprites</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="include/visualt/visualt.h" line="101" column="1" bodyfile="include/visualt/visualt.h" bodystart="101" bodyend="108"/>
+    <listofallmembers>
+      <member refid="structvt_obj_1a0f786f7513c3517b2743ce72a5a98126" prot="public" virt="non-virtual"><scope>vtObj</scope><name>currentSprite</name></member>
+      <member refid="structvt_obj_1a1ecd354dcdb895e54e2aef96be3e0aab" prot="public" virt="non-virtual"><scope>vtObj</scope><name>length</name></member>
+      <member refid="structvt_obj_1ad6ffddb969d35360eadc6978fa990b99" prot="public" virt="non-virtual"><scope>vtObj</scope><name>penChar</name></member>
+      <member refid="structvt_obj_1a92860474f2bf8f5c7f478bb015c504f4" prot="public" virt="non-virtual"><scope>vtObj</scope><name>penSize</name></member>
+      <member refid="structvt_obj_1a08e358f6a55eed8b2a68f8c995e820b7" prot="public" virt="non-virtual"><scope>vtObj</scope><name>sprites</name></member>
+      <member refid="structvt_obj_1a691e4e13ccae16248cc6cb962d80918d" prot="public" virt="non-virtual"><scope>vtObj</scope><name>visible</name></member>
+      <member refid="structvt_obj_1a510f0642e94537111eb1b9f350eb1545" prot="public" virt="non-virtual"><scope>vtObj</scope><name>x</name></member>
+      <member refid="structvt_obj_1a8173d46ad6d668b0bda59b6c66bbf125" prot="public" virt="non-virtual"><scope>vtObj</scope><name>y</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

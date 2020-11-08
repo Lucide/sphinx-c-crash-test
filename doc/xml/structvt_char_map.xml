@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="structvt_char_map" kind="struct" language="C++" prot="public">
+    <compoundname>vtCharMap</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="structvt_char_map_1a56327b25106e35ba1f6118893deeda5d" prot="public" static="no" mutable="no">
+        <type><ref refid="visualt_8h_1a602a1973d04b95bac5e9fa013bc2fac9" kindref="member">VTChar</ref> *</type>
+        <definition>VTChar* vtCharMap::chars</definition>
+        <argsstring></argsstring>
+        <name>chars</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/visualt/visualt.h" line="97" column="8" bodyfile="include/visualt/visualt.h" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structvt_char_map_1a61105751598b3637730744bbad694a3a" prot="public" static="no" mutable="no">
+        <type>unsigned int</type>
+        <definition>unsigned int vtCharMap::width</definition>
+        <argsstring></argsstring>
+        <name>width</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/visualt/visualt.h" line="98" column="14" bodyfile="include/visualt/visualt.h" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structvt_char_map_1a186ecb16940b25a4215b0184707eb1cd" prot="public" static="no" mutable="no">
+        <type>unsigned int</type>
+        <definition>unsigned int vtCharMap::height</definition>
+        <argsstring></argsstring>
+        <name>height</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/visualt/visualt.h" line="98" column="20" bodyfile="include/visualt/visualt.h" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="include/visualt/visualt.h" line="96" column="1" bodyfile="include/visualt/visualt.h" bodystart="96" bodyend="99"/>
+    <listofallmembers>
+      <member refid="structvt_char_map_1a56327b25106e35ba1f6118893deeda5d" prot="public" virt="non-virtual"><scope>vtCharMap</scope><name>chars</name></member>
+      <member refid="structvt_char_map_1a186ecb16940b25a4215b0184707eb1cd" prot="public" virt="non-virtual"><scope>vtCharMap</scope><name>height</name></member>
+      <member refid="structvt_char_map_1a61105751598b3637730744bbad694a3a" prot="public" virt="non-virtual"><scope>vtCharMap</scope><name>width</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
